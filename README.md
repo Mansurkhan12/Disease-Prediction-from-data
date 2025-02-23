@@ -1,3 +1,9 @@
+**INTRODUCTION**
+To create a disease prediction model based on medical data (e.g., symptoms, patient history), you can use machine learning classification algorithms. Below is an outline of how you can approach building such a model using Python and libraries like pandas, scikit-learn, and TensorFlow.
+
+We'll use a classification model to predict the likelihood of a disease based on input medical features (such as symptoms, patient history, test results, etc.).
+
+
 **Explanation of the Code:**
 1.Data Loading: We load the Pima Indians Diabetes Dataset from a public URL. It contains columns like Pregnancies, Glucose, BloodPressure, Age, and the target column Outcome, which indicates whether the patient has diabetes (1) or not (0).
 
